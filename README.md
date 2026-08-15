@@ -59,6 +59,9 @@ The project includes analysis of:
 
 ## Power BI Dashboard
 
+<img width="1176" height="999" alt="dashboard" src="https://github.com/user-attachments/assets/d4646d0b-9ccb-4055-bb82-9f026e6f838c" />
+
+
 The dashboard includes:
 
 * Executive KPI cards
