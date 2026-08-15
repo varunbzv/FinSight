@@ -59,8 +59,9 @@ The project includes analysis of:
 
 ## Power BI Dashboard
 
-<img width="1176" height="999" alt="dashboard" src="https://github.com/user-attachments/assets/d4646d0b-9ccb-4055-bb82-9f026e6f838c" />
+The dashboard provides an executive view of user activation, KYC conversion, acquisition performance, cohort retention, feature engagement, and retention opportunities.
 
+![FinSight Product Growth & Retention Dashboard](screenshots/dashboard.png)
 
 The dashboard includes:
 
