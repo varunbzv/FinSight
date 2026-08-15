@@ -1,4 +1,4 @@
-````markdown
+
 # FinSight — Product Growth & Retention Analytics
 
 An end-to-end product analytics project analyzing user activation, KYC conversion, product engagement, cohort retention, and retention opportunities for a financial platform.
@@ -43,7 +43,7 @@ SQL Analysis
 Power BI
    ↓
 Business Insights & Recommendations
-````
+```
 
 ## SQL Analysis
 
